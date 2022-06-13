@@ -28,7 +28,7 @@
 
 ## 📝 Project
 **School Project**
- - [Squidgame in XHyper320TKU](https://github.com/squid) - C
+ - [Squidgame in XHyper320TKU](https://github.com/bkRyusim/squidgame-in-XHyper320TKU) - C
 
 **Team Project**
  - [Meverty Backend Server](https://github.com/meverty/meverty-backend) - Python3 + Flask + Serverless
