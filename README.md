@@ -57,7 +57,7 @@
 <div align="center">
 
 [![bkRyusim's github stats](https://github-readme-stats.vercel.app/api?username=bkRyusim&show_icons=true&hide_border=true)](https://github.com/bkRyusim)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkRyusim&langs_count=8)](https://github.com/bkRyusim)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bkRyusim)](https://github.com/bkRyusim)
 
 </div>
 
