@@ -16,6 +16,7 @@
 ### 🎓 Education
 - Bachelor of Engineering in [Electrical and Electronics Engineering](http://e3home.cau.ac.kr), [Chung-Ang University](https://www.cau.ac.kr/index.do) 2017. 03. ~
   - **GPA** : All 3.72/4.5
+- 13th Web Programming, [Digital Media High School](https://www.dimigo.hs.kr) 2014. 03 ~ 2017. 02
 
 ## ⚒ Tech Skill
 |Classification|Skills|
