@@ -32,13 +32,14 @@
  - [Squidgame in XHyper320TKU](https://github.com/bkRyusim/squidgame-in-XHyper320TKU) - C
 
 **Team Project**
- - [Meverty Backend Server](https://github.com/meverty/meverty-backend) - Python3 + Flask + Serverless
+ - [Meverty Backend Server](https://github.com/meverty/meverty-mvp-api) - Python3 + Flask + Serverless
  - [Meverty Web Frontend](https://github.com/meverty/meverty-web-frontend) - Vue.js
 
 **Toy Project**
  - [RUBATO web](https://github.com/cau-rubato) - Vue.js, Java Spring
  - [Monthly](https://github.com/monthlyteam) - Python3 + Flask, Flutter
  - [RichHabit](https://github.com/monthlyteam/RichHabit) - Flutter
+ - [Boozirun Backend Server](https://github.com/GDG-summer-hackathon-team11/Back) - Node.js, MongoDB(Mongoose)
 
 <!--
 ### 🏅 Awards
