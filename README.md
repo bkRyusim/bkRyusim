@@ -39,6 +39,8 @@
  - [RUBATO web](https://github.com/cau-rubato) - Vue.js, Java Spring
  - [Monthly](https://github.com/monthlyteam) - Python3 + Flask, Flutter
  - [RichHabit](https://github.com/monthlyteam/RichHabit) - Flutter
+
+**Hackathon**
  - [Boozirun Backend Server](https://github.com/GDG-summer-hackathon-team11/Back) - Node.js, MongoDB(Mongoose)
 
 <!--
