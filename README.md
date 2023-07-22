@@ -17,7 +17,7 @@
 - Bachelor of Engineering in [Electrical and Electronics Engineering](http://e3home.cau.ac.kr), [Chung-Ang University](https://www.cau.ac.kr/index.do) 2017. 03. ~
   - **GPA** : All 3.72/4.5
 - 13th Web Programming, [Digital Media High School](https://www.dimigo.hs.kr) 2014. 03 ~ 2017. 02
-
+  
 ## ⚒ Tech Skill
 |Classification|Skills|
 |---|---|
@@ -30,6 +30,11 @@
  - [Squidgame in XHyper320TKU](https://github.com/bkRyusim/squidgame-in-XHyper320TKU) - C
  - [Quizlog Backend Server](https://github.com/bkRyusim/quizlog-go) - golang + fiber
  - [Quizlog Web Frontend](https://github.com/bkRyusim/quizlog-react) - React.js
+
+**Woowa Tech Camp Project**
+ - [String Calculator & RacingCar Simulator](https://github.com/bkRyusim/java-racingcar/tree/bkryusim) - Java, TDD
+ - [Lotto Simulator](https://github.com/bkRyusim/java-lotto/tree/bkryusim) - Java, TDD
+ - [Subway Spring Application](https://github.com/bkRyusim/spring-subway/tree/step1_2) - Spring, Java, TDD
 
 **Team Project**
  - [Meverty Backend Server](https://github.com/meverty/meverty-mvp-api) - Python3 + Flask + Serverless
