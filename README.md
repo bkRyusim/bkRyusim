@@ -13,11 +13,16 @@
 | Learning Manager | [Day1 Company](https://day1company.co.kr) | 2022.04. ~ 2022.06. |
 -->
 
-### 🎓 Education
-- Bachelor of Engineering in [Electrical and Electronics Engineering](http://e3home.cau.ac.kr), [Chung-Ang University](https://www.cau.ac.kr/index.do) 2017. 03. ~
+## 🎓 Education
+### School
+- Bachelor of Engineering in [Electrical and Electronics Engineering](http://e3home.cau.ac.kr), [Chung-Ang University](https://www.cau.ac.kr/index.do) 2017. 03. ~ 2023. 02.
   - **GPA** : All 3.72/4.5
-- 13th Web Programming, [Digital Media High School](https://www.dimigo.hs.kr) 2014. 03 ~ 2017. 02
-  
+- 13th Web Programming, [Digital Media High School](https://www.dimigo.hs.kr) 2014. 03. ~ 2017. 02.
+
+### Other
+- Java Spring Server Education, [6th Woowa Tech Camp](https://techblog.woowahan.com/11427/) 2023. 07 ~
+- 2022 Summer Algorithm Spetial Lecture, [Samsung SDS](https://www.samsungsds.com/kr/index.html) 2022. 07. ~ 2022.08.
+
 ## ⚒ Tech Skill
 |Classification|Skills|
 |---|---|
