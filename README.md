@@ -31,11 +31,6 @@
 |ETC| ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)|
 
 ## 📝 Project
-**School Project**
- - [Squidgame in XHyper320TKU](https://github.com/bkRyusim/squidgame-in-XHyper320TKU) - C
- - [Quizlog Backend Server](https://github.com/bkRyusim/quizlog-go) - golang + fiber
- - [Quizlog Web Frontend](https://github.com/bkRyusim/quizlog-react) - React.js
-
 **Woowa Tech Camp Project**
  - [String Calculator & RacingCar Simulator](https://github.com/bkRyusim/java-racingcar/tree/bkryusim) - Java, TDD
  - [Lotto Simulator](https://github.com/bkRyusim/java-lotto/tree/bkryusim) - Java, TDD
@@ -44,6 +39,11 @@
 **Team Project**
  - [Meverty Backend Server](https://github.com/meverty/meverty-mvp-api) - Python3 + Flask + Serverless
  - [Meverty Web Frontend](https://github.com/meverty/meverty-web-frontend) - Vue.js
+
+**School Project**
+ - [Squidgame in XHyper320TKU](https://github.com/bkRyusim/squidgame-in-XHyper320TKU) - C
+ - [Quizlog Backend Server](https://github.com/bkRyusim/quizlog-go) - golang + fiber
+ - [Quizlog Web Frontend](https://github.com/bkRyusim/quizlog-react) - React.js
 
 **Toy Project**
  - [RUBATO web](https://github.com/cau-rubato) - Vue.js, Java Spring
