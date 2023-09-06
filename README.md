@@ -20,38 +20,23 @@
 - 13th Web Programming, [Digital Media High School](https://www.dimigo.hs.kr) 2014. 03. ~ 2017. 02.
 
 ### Other
-- Java Spring Server Education, [6th Woowa Tech Camp](https://techblog.woowahan.com/11427/) 2023. 07 ~
+- Java Spring Server Education, [6th Woowa Tech Camp](https://techblog.woowahan.com/11427/) 2023. 07 ~ 2023. 08.
 - 2022 Summer Algorithm Spetial Lecture, [Samsung SDS](https://www.samsungsds.com/kr/index.html) 2022. 07. ~ 2022.08.
 
 ## ⚒ Tech Skill
 |Classification|Skills|
 |---|---|
-|Backend| ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Golang](https://img.shields.io/badge/golang-29BEB0.svg?style=for-the-badge&logo=go&logoColor=white)|
-|Frontend|![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=Vue.js&logoColor=white) ![React](https://img.shields.io/badge/React-61D8FB.svg?style=for-the-badge&logo=react&logoColor=white)|
+|Backend| ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)|
+|Frontend|![React](https://img.shields.io/badge/React-61D8FB.svg?style=for-the-badge&logo=react&logoColor=white)|
 |ETC| ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon%20AWS&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)|
 
 ## 📝 Project
 **Woowa Tech Camp Project**
- - [String Calculator & RacingCar Simulator](https://github.com/bkRyusim/java-racingcar/tree/bkryusim) - Java, TDD
- - [Lotto Simulator](https://github.com/bkRyusim/java-lotto/tree/bkryusim) - Java, TDD
- - [Subway Spring Application](https://github.com/bkRyusim/spring-subway/tree/step1_2) - Spring, Java, TDD
-
-**Team Project**
- - [Meverty Backend Server](https://github.com/meverty/meverty-mvp-api) - Python3 + Flask + Serverless
- - [Meverty Web Frontend](https://github.com/meverty/meverty-web-frontend) - Vue.js
-
-**School Project**
- - [Squidgame in XHyper320TKU](https://github.com/bkRyusim/squidgame-in-XHyper320TKU) - C
- - [Quizlog Backend Server](https://github.com/bkRyusim/quizlog-go) - golang + fiber
- - [Quizlog Web Frontend](https://github.com/bkRyusim/quizlog-react) - React.js
-
-**Toy Project**
- - [RUBATO web](https://github.com/cau-rubato) - Vue.js, Java Spring
- - [Monthly](https://github.com/monthlyteam) - Python3 + Flask, Flutter
- - [RichHabit](https://github.com/monthlyteam/RichHabit) - Flutter
-
-**Hackathon**
- - [Boozirun Backend Server](https://github.com/GDG-summer-hackathon-team11/Back) - Node.js, MongoDB(Mongoose)
+ - [String Calculator & RacingCar Simulator](https://github.com/bkRyusim/java-racingcar/tree/bkryusim) - Java
+ - [Lotto Simulator](https://github.com/bkRyusim/java-lotto/tree/bkryusim) - Java
+ - [Subway Spring Application](https://github.com/bkRyusim/spring-subway/tree/step1_2) - Spring, Java
+ - [Spring Shopping]() - Spring, Java
+ - [DnDnKit Mealkit Shopping Mall](https://github.com/woowa-camp-2023-4/backend) - Spring, Java, Mysql
 
 <!--
 ### 🏅 Awards
