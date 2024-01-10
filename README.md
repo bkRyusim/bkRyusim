@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Seung Yun Baek</h1>
 
-[![Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white)]([https://velog.io/@ryudimi](https://baek-devlog.tistory.com/))
+[![Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white)](https://baek-devlog.tistory.com/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finclue)](https://github.com/bkRyusim)
 </div>
 
