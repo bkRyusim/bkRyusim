@@ -7,24 +7,22 @@
 
 <!-- 
 ## 🙋‍♂️ Introduction
-
-### 💻 Work Experience
-| Role | Company | Period |
-|:---|:---:|---:|
-| Learning Manager | [Day1 Company](https://day1company.co.kr) | 2022.04. ~ 2022.06. |
 -->
+## 💻 Work Experience
+### [TeamGRIT](https://teamgrit.kr) - Backend Developer (2024.01 ~ now)
+- developed backend service of [CoPlay](https://www.coplay.kr)
+  - real-time event relay server with Java Spring, STOMP, RabbitMQ
+  - applied CI/CD with `Github Actions` on `AWS ECS` + `Docker`
+  - set up gradle-based multimodule project
+  - unit test with `JUnit`, acceptance test with `Restassured`
 
-## 📝 Project
-### 든든킷 - MealKit Shopping Mall (2023.08)
-Project for final assignment of `6th Woowa Tech Camp`
-- [Backend](https://github.com/woowa-camp-2023-4/backend) - `Spring` `Java` `Mysql`
-- [Frontend](https://github.com/woowa-camp-2023-4/shop-frontend) - `React` `Javascript`
-- [Final Demo Presentation](https://docs.google.com/presentation/d/1X7-7l7Nj1PIYa8kaewpPl7k-R4bi-YXWqaRboBQPdMU/edit#slide=id.g27985c6d060_0_0)
-
-### Meverty - Metaverse AdNetwork (2022.04. ~ 2022.06.)
-Ad Network Service for 3D Metaverse Environment. Completed `U300` Growth Track.
-- [Backend](https://github.com/meverty/meverty-mvp-api) - `Python` `Flask` `Serverless`
-- [Github Organization](https://github.com/meverty)
+### [6th Woowa Tech Camp](https://techblog.woowahan.com/11427/) - Java Backend Develop Intern (2023.07 ~ 2023.08)
+- deeply studied about `OOP` and `TDD`
+- strengthen skills in `Java`, `Spring`, `MySQL`, `AWS`
+- developed mealkit commerce service, `든든킷` for final assignment project.
+  - [Backend Repository](https://github.com/woowa-camp-2023-4/backend) - `Spring` `Java` `Mysql`
+  - [Frontend Repository](https://github.com/woowa-camp-2023-4/shop-frontend) - `React` `Javascript`
+  - [Final Demo Presentation](https://docs.google.com/presentation/d/1X7-7l7Nj1PIYa8kaewpPl7k-R4bi-YXWqaRboBQPdMU/edit#slide=id.g27985c6d060_0_0)
 
 ### Others
 Some other study projects are in my [Etudes Organization](https://github.com/seungyun-etudes)
@@ -43,7 +41,6 @@ Some other study projects are in my [Etudes Organization](https://github.com/seu
 - 13th Web Programming, [Digital Media High School](https://www.dimigo.hs.kr) 2014. 03. ~ 2017. 02.
 
 ### Other
-- Java Spring Server Education, [6th Woowa Tech Camp](https://techblog.woowahan.com/11427/) 2023. 07 ~ 2023. 08.
 - 2022 Summer Algorithm Spetial Lecture, [Samsung SDS](https://www.samsungsds.com/kr/index.html) 2022. 07. ~ 2022.08.
 
 <!--
